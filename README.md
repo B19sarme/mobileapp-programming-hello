@@ -6,9 +6,9 @@ AndroidManifest.xml och Strings.xml under följande byggstenar Activity och Reso
 
 ## Följande grundsyn gäller dugga-svar:
 
-Jag ändrade texten Hello till Välkommen för stunden och de gjordes i filerna
-AndroidManifest.xml och Strings.xml under följande byggstenar Activity och Resoures.
+I den första koden som har skickats så är de så att man så är det en Activity som hade under Android Label så stod de först Hello innan ändringen gjordes och ändrades till Välkommen istället vilket var titeln på appen du kan se de på screenshooten. 
 
+I resources så var de likadant där de ändrades från Hello till Välkommen vilket blev i appen texten som finns på mitten ändrades till välkommen du kan se detta i screenshooten också. Detta är ändringarna som har gjorts. 
 Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
 
 ```
